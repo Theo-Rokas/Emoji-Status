@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "620742625404",
+    "project_id": "emojistatusapp-90236",
+    "storage_bucket": "emojistatusapp-90236.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620742625404:android:cf1ef64cf322b18ddd61f9",
+        "android_client_info": {
+          "package_name": "com.trokas.emojistatusapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620742625404-6u1nsnf7mcdll9c744a2fhvl8h4bp6ot.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trokas.emojistatusapp",
+            "certificate_hash": "fddbebfe8979d649dc730985e127c8d63507b1aa"
+          }
+        },
+        {
+          "client_id": "620742625404-thuf0i43ttj1taf8i7761thp6a6chp2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSrP3BVewHEXBgQY_p7C4CFMOFbK21ErY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620742625404-thuf0i43ttj1taf8i7761thp6a6chp2p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
